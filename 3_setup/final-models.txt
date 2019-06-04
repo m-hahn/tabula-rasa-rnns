@@ -1,0 +1,33 @@
+
+# Autoencoders
+wiki-autoencoder
+wiki-autoencoder-italian
+
+# Char LSTMs
+wiki-german-nospaces-bptt-910515909                  
+wiki-english-nospaces-bptt-282506230    
+wiki-italian-nospaces-bptt-855947412
+
+# Char RNNs
+wiki-english-nospaces-bptt-rnn-891035072           
+wiki-german-nospaces-bptt-rnn-237671415              
+wiki-italian-nospaces-bptt-rnn-557654324
+
+# Word NLMs
+wiki-german-nospaces-bptt-words-966024846
+wiki-english-nospaces-bptt-words-805035971 
+wiki-italian-nospaces-bptt-words-316412710
+
+# For MSR Sentence Completion
+holmes-from-282506230-684739660
+holmes-from-282506230-932742390
+holmes-from-fresh-754593543
+holmes-words-from-fresh-vocab-237230358    
+holmes-words-from-805035971-218115572      
+holmes-words-from-fresh-77128193           
+holmes-rnn-from-fresh-388239891                      
+holmes-rnn-from-891035072-134123184                  
+
+
+
+

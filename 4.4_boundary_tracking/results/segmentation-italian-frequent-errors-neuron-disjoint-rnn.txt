@@ -1,0 +1,63 @@
+False Positives
+a|anche	163
+so|sono	177
+n|nella	179
+n|non	180
+del|delle	180
+an|anche	181
+son|sono	181
+al|alla	194
+de|delle	207
+ne|nella	217
+no|non	224
+co|come	224
+da|dal	225
+com|come	227
+a|alla	239
+del|dell'	247
+nel|nella	257
+de|dell'	287
+l|la	303
+de|dei	304
+a|al	396
+n|nel	444
+un|una	513
+co|con	524
+del|della	586
+de|della	602
+ne|nel	620
+de|del	843
+i|in	1048
+i|il	1432
+
+False Negatives
+l' altro	19
+l' 11	20
+nell' ambito	20
+all' epoca	20
+quest' ultima	20
+nell' estate	21
+l' ultima	22
+dopo aver	22
+all' età	23
+l' opera	24
+ad essere	24
+dopo la	25
+d' oro	25
+l' album	26
+ed i	26
+all' inizio	27
+l' uomo	28
+d' america	29
+maggior parte	29
+new york	29
+un' altra	31
+c' è	31
+ad esempio	34
+l' anno	36
+quest' ultimo	42
+ed il	63
+ad una	64
+all' interno	70
+ad un	71
+ed è	91

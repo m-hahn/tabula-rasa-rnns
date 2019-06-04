@@ -1,0 +1,63 @@
+False Positives
+moth|mother	5
+201|2010	5
+a|as	5
+no|not	5
+i|is	6
+time|times	6
+again|against	6
+includin|including	6
+popu|population	6
+aft|after	7
+hi|his	7
+state|states	7
+the|them	7
+durin|during	7
+o|on	7
+year|years	8
+i|in	8
+the|they	8
+on|only	9
+the|there	9
+the|their	10
+tha|that	11
+a|an	11
+on|one	11
+a|and	13
+firs|first	13
+it|its	18
+an|and	27
+'|'s	33
+o|of	89
+
+False Negatives
+rac foundation	1
+bell uh-1	1
+buicescul 's	1
+cal 's	1
+grade level	1
+tarecgosa 's	1
+du lac	1
+padma shri	1
+three times	1
+t. jakovlevi	1
+austal 's	1
+marri karnel	1
+amylon "	1
+ethikis apeleftherosis	1
+.class )	1
+panchayati raj	1
+kraut rock	1
+factor a	1
+sri lanka	2
+et al.	2
+san leandro	2
+close to	2
+art and	2
+de france	2
+out of	2
+there were	2
+african american	2
+far more	2
+gør det	2
+san antonio	3

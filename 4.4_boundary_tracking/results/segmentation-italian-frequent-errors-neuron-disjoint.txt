@@ -1,0 +1,203 @@
+False Positives
+abitan|abitanti	38
+e|ed	39
+fa|fatto	40
+perio|periodo	40
+quin|quindi	40
+in|insieme	42
+sen|senza	42
+ques|questo	42
+da|dalle	42
+a|ancora	42
+i|insieme	43
+sta|stagione	43
+secon|secondo	43
+su|sul	44
+an|anno	44
+ne|nel	45
+a|album	45
+con|contro	45
+in|inoltre	46
+ven|venne	47
+n|negli	47
+alcun|alcuni	47
+a|anno	48
+segui|seguito	49
+n|nome	50
+ci|città	50
+han|hanno	51
+d|della	51
+sa|san	52
+era|erano	54
+un|uno	54
+do|dove	55
+sul|sulla	56
+a|alcuni	57
+n|nelle	57
+sta|stati	58
+i|italia	58
+fi|fino	60
+sta|stata	61
+nel|nelle	62
+da|dai	63
+sull|sulla	66
+men|mentre	66
+si|sia	67
+nell|nelle	67
+dal|dall'	68
+a|altri	69
+n|nei	70
+fi|film	71
+d|del	71
+quan|quando	72
+dura|durante	73
+seri|serie	76
+dall|dall'	78
+an|anni	79
+nel|nell'	81
+lo|loro	83
+a|alle	83
+pri|primo	83
+duran|durante	86
+da|dall'	87
+vien|viene	87
+venn|venne	90
+n|nell'	92
+l|la	94
+son|sono	94
+nell|nell'	96
+un|un'	102
+a|anni	110
+sta|stato	111
+no|non	114
+a|ai	117
+pri|prima	118
+do|dopo	137
+dal|dalla	140
+dall|dalla	155
+dell|delle	166
+da|dalla	170
+a|all'	172
+del|delle	182
+d|di	190
+an|anche	196
+a|ad	201
+pi|più	206
+a|anche	225
+da|dal	247
+nell|nella	247
+n|non	251
+n|nella	253
+dell|dell'	270
+nel|nella	272
+a|alla	292
+del|dell'	296
+a|al	442
+un|una	550
+dell|della	623
+del|della	629
+n|nel	674
+i|in	1154
+i|il	1723
+
+False Negatives
+serie a	26
+d' america	26
+al centro	26
+ma il	26
+figlio di	26
+al termine	26
+età di	26
+che l'	27
+e fu	27
+verso la	27
+gruppo di	27
+le prime	28
+che in	28
+( "	28
+anche il	29
+un' altra	29
+contro il	29
+ha avuto	29
+per gli	30
+de la	30
+interno della	30
+d' italia	30
+e gli	31
+distretto di	31
+ma non	31
+che il	32
+ad essere	32
+e poi	32
+d' oro	32
+ma la	34
+durante il	34
+ma anche	34
+al "	35
+che non	35
+le due	35
+presenza di	35
+sotto la	35
+maggior parte	36
+sotto il	36
+tutte le	36
+guerra mondiale	37
+e una	37
+al suo	38
+e con	38
+all' interno	38
+che ,	38
+e lo	38
+parte del	41
+che è	41
+e che	41
+durante la	42
+università di	43
+new york	43
+tra le	44
+come "	44
+e un	44
+che lo	44
+per un	45
+che la	46
+e non	47
+tra il	47
+serie di	48
+parte della	50
+può essere	50
+e a	51
+e da	51
+nome di	52
+e per	52
+un comune	53
+anche se	54
+e nel	54
+tra i	55
+numero di	55
+e del	56
+per le	56
+e in	57
+ad esempio	58
+e ,	60
+per i	63
+e della	63
+) è	64
+che ha	67
+ad una	68
+e si	70
+e le	74
+ad un	76
+per l'	77
+le sue	83
+e i	92
+e "	93
+e l'	109
+che si	111
+) e	132
+e di	136
+per il	142
+e la	206
+per la	221
+) .	273
+e il	281
+) ,	368

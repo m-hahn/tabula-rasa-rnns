@@ -1,0 +1,63 @@
+False Positives
+d|dall'	8
+a|alla	9
+ess|essere	9
+d|dalla	9
+del|della	9
+s|su	10
+de|dell'	10
+son|sono	10
+e|essere	10
+d|due	10
+de|delle	11
+c|con	11
+esser|essere	11
+d|delle	11
+ne|nel	12
+e|ed	13
+d|dal	13
+ann|anni	14
+d|dell'	16
+d|dei	18
+ch|che	18
+s|si	18
+de|dei	19
+de|della	25
+d|della	26
+de|del	26
+un|una	34
+d|da	39
+d|del	47
+d|di	147
+
+False Negatives
+dell' ex	2
+xv secolo	2
+panchayat "	2
+“ leonardo	2
+c' è	3
+nei pressi	3
+lo END_OF_SEQUENCE	3
+dell' università	3
+- doppio	3
+distretto di	3
+gran bretagna	3
+dell' accademia	3
+oblast '	3
+nello stato	3
+dell' uomo	3
+vol .	3
+lo "	3
+grand prix	3
+lo ha	4
+presso la	4
+landkreis "	4
+negli stati	4
+lo sviluppo	4
+presso il	5
+new york	5
+santa maria	6
+lo stesso	6
+far parte	7
+gran parte	8
+negli anni	9

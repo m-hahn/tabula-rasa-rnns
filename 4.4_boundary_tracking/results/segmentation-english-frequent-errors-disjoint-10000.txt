@@ -1,0 +1,63 @@
+False Positives
+2|2005	8
+2|2017	8
+west|western	8
+the|these	9
+2|2014	9
+u.s|u.s.	9
+the|then	9
+2|2006	10
+with|within	10
+america|american	10
+on|only	10
+he|her	12
+a|also	12
+state|states	12
+wit|with	12
+an|and	12
+the|there	13
+nation|national	13
+the|them	15
+i|in	15
+on|one	15
+the|they	16
+in|into	16
+again|against	17
+o|of	22
+it|its	23
+a|an	25
+a|and	25
+the|their	30
+'|'s	96
+
+False Negatives
+those age	2
+krav maga	2
+orca cards	2
+gran turismo	2
+scull .	2
+jogian and	2
+u. s.	2
+tae-il literary	2
+hilmi was	2
+matt and	2
+nor is	2
+notre dame	3
+residing in	3
+pan american	3
+sat exams	3
+those under	3
+johns hopkins	3
+presidential election	3
+2010–11 season	3
+| chah-e	3
+22 february	3
+nhl entry	3
+30 august	4
+non-families .	4
+45 to	4
+belong to	4
+tag team	5
+apart from	5
+30 june	6
+housing units	9

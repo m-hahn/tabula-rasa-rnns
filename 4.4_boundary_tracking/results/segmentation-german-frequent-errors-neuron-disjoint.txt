@@ -1,0 +1,203 @@
+False Positives
+erst|ersten	35
+deutsche|deutschen	35
+gemein|gemeinde	35
+ih|ihr	35
+deutsch|deutschen	36
+o|of	36
+ih|ihrer	37
+seine|seinen	38
+währen|während	38
+ih|ihre	39
+jahr|jahre	40
+wur|wurden	41
+zweite|zweiten	42
+er|erste	42
+erst|erste	43
+i|ihm	43
+ih|ihm	44
+a|aber	44
+e|erste	44
+i|ihre	45
+e|ende	45
+bei|beim	46
+erste|ersten	47
+e|etwa	48
+nac|nach	49
+ihr|ihre	51
+späte|später	51
+e|ersten	52
+währe|während	52
+ein|eines	52
+seine|seinem	53
+abe|aber	54
+zwische|zwischen	55
+war|waren	55
+jahre|jahren	56
+sein|seinem	57
+jedoc|jedoch	58
+e|eines	59
+wir|wird	59
+wie|wieder	60
+ei|eines	63
+eine|eines	63
+sein|seiner	63
+a|ab	65
+die|diese	70
+diese|dieser	70
+die|dieser	72
+auc|auch	75
+ware|waren	78
+o|oder	80
+seine|seiner	81
+u|unter	81
+sin|sind	86
+werde|werden	89
+sein|seine	93
+ei|einen	95
+un|unter	95
+ode|oder	97
+ein|einem	101
+ei|einem	101
+wurde|wurden	106
+u|um	111
+das|dass	114
+e|einen	114
+ein|einen	118
+ü|über	119
+übe|über	123
+eine|einen	123
+ein|einer	129
+e|einem	130
+zu|zur	130
+de|dem	130
+ei|einer	133
+eine|einem	136
+a|aus	153
+a|auch	163
+de|des	166
+a|am	168
+e|einer	172
+wur|wurde	174
+e|es	183
+zu|zum	190
+a|an	196
+eine|einer	197
+ei|ein	220
+ei|eine	221
+a|auf	230
+de|den	258
+a|als	301
+i|ist	318
+e|eine	323
+ein|eine	331
+is|ist	338
+e|ein	371
+e|er	547
+i|im	646
+de|der	699
+i|in	1161
+u|und	1334
+un|und	1551
+
+False Negatives
+of the	11
+je nach	11
+dar ,	11
+de la	11
+an dem	11
+hat das	11
+am 19	11
+bis in	11
+mit der	11
+nach der	11
+war ein	11
+bau des	11
+am 2	11
+am 21	11
+auch die	12
+dass die	12
+hat er	12
+mit einem	12
+da es	12
+an und	12
+da der	12
+an :	12
+bau der	12
+am 29	12
+am 31	13
+befindet sich	13
+zusammen mit	13
+und der	13
+teil der	13
+bis zu	13
+ab und	14
+los angeles	14
+am 30	14
+am 23	14
+da sie	14
+nach dem	14
+am 13	15
+am 11	15
+bis zum	15
+am 10	15
+am 9	15
+an einer	16
+mit dem	16
+ebenda )	16
+am main	16
+am 6	17
+am 7	17
+am 8	17
+am 18	17
+am 25	18
+am 12	18
+am 24	18
+am 28	18
+und die	18
+am 4	18
+im jahr	18
+am 5	18
+durch die	18
+31 .	19
+hat die	19
+ist ein	19
+30 .	19
+ab ,	19
+am 3	20
+siehe auch	20
+hat eine	20
+sei .	20
+am 17	20
+ab dem	20
+seit dem	20
+in die	20
+für die	21
+am 26	21
+in den	21
+am 16	22
+mitte der	22
+am 22	22
+am 15	23
+hat sich	23
+am ende	23
+am 20	23
+dar .	25
+new york	25
+wo sie	26
+hat ,	26
+an das	27
+20 .	27
+da er	28
+hat .	34
+so dass	37
+da die	38
+an ,	61
+am 1	69
+in der	76
+wo er	79
+ab .	82
+an den	82
+an .	100
+an die	108
+an der	413

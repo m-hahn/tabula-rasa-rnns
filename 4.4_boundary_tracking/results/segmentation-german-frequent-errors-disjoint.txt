@@ -1,0 +1,63 @@
+False Positives
+bi|bis	2
+e|er	2
+deutschlan|deutschland	2
+friedho|friedhof	2
+e|eine	2
+ei|eine	2
+sin|sind	2
+s|sohn	2
+an|anderen	2
+de|deren	2
+ve|verein	2
+lan|landkreis	2
+be|bei	2
+z|zu	3
+v|von	3
+i|in	3
+d|des	3
+z|zum	3
+de|dem	3
+e|ein	4
+d|das	4
+ja|jahr	4
+d|die	4
+m|mit	4
+au|auch	4
+is|ist	4
+d|dem	5
+d|der	11
+vo|von	13
+de|der	13
+
+False Negatives
+gegenzug ist	1
+klassischer END_OF_SEQUENCE	1
+juristischen druck	1
+franziska gertrud	1
+zu köln	1
+bei den	1
+berger ,	1
+gebietsreform wurde	1
+zum ortsteil	1
+landtag von	1
+rentabel betrachtet	1
+einer ölquelle	1
+großlandschaftlichen wörterbücher	1
+dieser funktion	1
+für sich	1
+literatur .	1
+new york–trenton	1
+oder der	1
+zu dem	2
+gab es	2
+von der	2
+der regel	2
+zum END_OF_SEQUENCE	2
+einem END_OF_SEQUENCE	2
+für END_OF_SEQUENCE	2
+der beiden	2
+für die	2
+vor der	2
+den END_OF_SEQUENCE	5
+der END_OF_SEQUENCE	7

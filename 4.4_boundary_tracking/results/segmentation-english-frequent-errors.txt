@@ -1,0 +1,63 @@
+False Positives
+distric|district	12
+s|school	12
+colle|college	12
+howeve|however	13
+the|these	13
+seas|season	13
+i|in	13
+again|against	13
+child|children	13
+bet|between	14
+use|used	14
+nation|national	15
+unit|united	16
+othe|other	16
+the|them	19
+year|years	20
+state|states	20
+in|into	21
+wa|was	22
+the|they	23
+o|of	24
+the|there	24
+als|also	28
+we|were	30
+tha|that	35
+t|to	36
+the|their	36
+firs|first	38
+it|its	38
+'|'s	124
+
+False Negatives
+a former	7
+the united	8
+refer to	8
+the early	8
+a total	8
+on a	8
+a single	8
+north america	8
+is a	9
+the first	9
+new york	9
+a member	9
+a large	9
+a major	9
+the university	10
+to the	10
+the "	10
+an american	11
+a series	12
+was a	12
+a few	15
+he was	15
+a "	16
+of the	18
+a number	19
+a new	23
+part of	25
+in the	45
+on the	58
+at the	64

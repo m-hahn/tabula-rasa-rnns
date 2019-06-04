@@ -1,0 +1,63 @@
+False Positives
+de|der	10
+is|ist	10
+ei|einer	11
+die|diese	11
+seine|seiner	12
+ei|eine	12
+e|einer	12
+ein|einen	13
+zu|zum	13
+e|einem	13
+e|es	14
+eine|einer	14
+eine|einem	14
+wurde|wurden	14
+eine|einen	14
+sin|sind	14
+ein|einem	15
+m|mit	15
+ein|einer	18
+n|nach	18
+zu|zur	18
+ei|ein	21
+i|in	23
+f|für	24
+ein|eine	28
+e|eine	32
+e|ein	34
+e|er	39
+u|und	91
+un|und	147
+
+False Negatives
+dass der	3
+so wurde	3
+eingestellt .	3
+schloss er	3
+war er	4
+gehört zum	4
+so dass	4
+veröffentlicht .	4
+eingerichtet .	4
+entdeckt .	4
+bau der	4
+erhielt er	4
+entwickelt .	4
+gibt es	4
+beteiligt .	4
+verheiratet und	4
+verwendet .	4
+war die	4
+zurück .	4
+dass sie	5
+gegründet .	5
+erst nach	5
+bau des	5
+mehr als	5
+verfügt über	5
+errichtet .	8
+gewählt .	9
+dass die	11
+wo er	15
+befindet sich	26

@@ -1,0 +1,63 @@
+False Positives
+cinq|cinque	3
+n|non	3
+dura|durante	3
+imperato|imperatore	3
+siste|sistemazione	3
+se|secolo	3
+d|della	3
+2|2010	3
+liber|libero	3
+figli|figlio	3
+pubbli|pubblico	3
+a|alla	3
+th|the	3
+ne|nel	3
+band|banda	3
+so|sono	3
+mentr|mentre	4
+e|era	4
+uomi|uomini	4
+d|del	4
+ulti|ultimo	4
+a|all'	5
+s|si	5
+era|erano	6
+n|nel	6
+d|di	6
+esse|essere	7
+a|al	7
+e|ed	9
+i|in	12
+
+False Negatives
+kiedis sentì	1
+cercando di	2
+cv ,	2
+pérez de	2
+sam di	2
+salaam ,	2
+7 ottobre	2
+red ,	2
+malayalam e	2
+alter bridge	2
+c' è	2
+ala END_OF_SEQUENCE	2
+iv secolo	2
+side 2	2
+namur ,	2
+musical "	2
+griffin rock	2
+videoclip del	2
+pian piano	2
+split reel	2
+5 luglio	2
+indian wells	2
+patriarca di	2
+atp challenger	3
+xvi secolo	3
+attraversa il	3
+c' erano	3
+particolar modo	3
+pag .	4
+scopre che	7

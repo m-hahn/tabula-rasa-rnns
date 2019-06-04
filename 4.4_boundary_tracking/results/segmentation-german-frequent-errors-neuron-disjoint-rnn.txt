@@ -1,0 +1,63 @@
+False Positives
+zu|zum	196
+eine|einer	197
+si|sie	234
+is|ist	239
+au|auch	247
+nac|nach	250
+au|aus	253
+n|nach	258
+si|sich	269
+e|eine	276
+i|ist	295
+un|und	330
+ein|eine	330
+ei|eine	336
+f|für	354
+ei|ein	383
+e|ein	386
+au|auf	391
+wu|wurde	410
+wurd|wurde	415
+de|dem	433
+e|er	503
+m|mit	507
+i|im	516
+de|den	580
+de|des	586
+i|in	922
+di|die	1536
+u|und	1582
+de|der	2067
+
+False Negatives
+bei der	17
+iv .	17
+dass es	17
+und dem	17
+) .	18
+ebenda )	18
+aus der	18
+aus dem	21
+nach dem	21
+durch die	21
+sind die	22
+wo sie	23
+und der	24
+siehe auch	24
+ab dem	25
+während die	25
+ab ,	25
+da er	26
+befand sich	28
+da die	29
+sind .	30
+dass er	32
+und die	36
+mehr als	40
+gab es	48
+während des	50
+dass die	52
+während der	75
+ab .	83
+wo er	87

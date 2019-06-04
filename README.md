@@ -1,2 +1,3 @@
-# tabula-rasa-rnns
-Code for "Tabula Nearly Rasa"
+# Code for ``Tabula (Nearly) Rasa''
+
+
